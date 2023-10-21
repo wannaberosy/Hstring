@@ -1,0 +1,3 @@
+﻿  Hstring.cpp
+F:\yidaoyun\MyHstring\Hstring.cpp(54): warning C4172: 返回局部变量或临时变量的地址: temp
+  MyHstring.vcxproj -> F:\yidaoyun\MyHstring\Debug\MyHstring.exe
